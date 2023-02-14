@@ -1,0 +1,13 @@
+#ignore virtual environment
+env/
+venv/
+
+#ignore backup files
+*.bak
+
+#ignore content of input and output
+./input_csv/*
+./output_xlsx/*
+
+#ignore .exe
+*.exe
